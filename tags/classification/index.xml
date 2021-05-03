@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>classification on Maxwell Kwarteng</title>
-    <link>https://maxim371.github.io/Maxwell_Portfolio_2/tags/classification/</link>
+    <link>https://maxim371.github.io/Max_Portfolio/tags/classification/</link>
     <description>Recent content in classification on Maxwell Kwarteng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://maxim371.github.io/Maxwell_Portfolio_2/tags/classification/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 May 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://maxim371.github.io/Max_Portfolio/tags/classification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Project 2: Streamlit web app for image classification</title>
-      <link>https://maxim371.github.io/Maxwell_Portfolio_2/post/project-2/</link>
+      <link>https://maxim371.github.io/Max_Portfolio/post/project-2/</link>
       <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://maxim371.github.io/Maxwell_Portfolio_2/post/project-2/</guid>
+      <guid>https://maxim371.github.io/Max_Portfolio/post/project-2/</guid>
       <description>created a tool that estimates data science salaries scraped over 1000 job descriptions from glassdoor using python and selenium Engineered features from each job description Deployed model using streamlit   Link to Github Repository</description>
     </item>
     

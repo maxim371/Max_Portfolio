@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Maxwell Kwarteng</title>
-    <link>https://maxim371.github.io/Maxwell_Portfolio_2/tags/</link>
+    <link>https://maxim371.github.io/Max_Portfolio/tags/</link>
     <description>Recent content in Tags on Maxwell Kwarteng</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 10 May 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://maxim371.github.io/Maxwell_Portfolio_2/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 May 2020 11:00:59 -0400</lastBuildDate><atom:link href="https://maxim371.github.io/Max_Portfolio/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>classification</title>
-      <link>https://maxim371.github.io/Maxwell_Portfolio_2/tags/classification/</link>
+      <link>https://maxim371.github.io/Max_Portfolio/tags/classification/</link>
       <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://maxim371.github.io/Maxwell_Portfolio_2/tags/classification/</guid>
+      <guid>https://maxim371.github.io/Max_Portfolio/tags/classification/</guid>
       <description></description>
     </item>
     
     <item>
       <title>deployment</title>
-      <link>https://maxim371.github.io/Maxwell_Portfolio_2/tags/deployment/</link>
+      <link>https://maxim371.github.io/Max_Portfolio/tags/deployment/</link>
       <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://maxim371.github.io/Maxwell_Portfolio_2/tags/deployment/</guid>
+      <guid>https://maxim371.github.io/Max_Portfolio/tags/deployment/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://maxim371.github.io/Maxwell_Portfolio_2/tags/regression/</link>
+      <link>https://maxim371.github.io/Max_Portfolio/tags/regression/</link>
       <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://maxim371.github.io/Maxwell_Portfolio_2/tags/regression/</guid>
+      <guid>https://maxim371.github.io/Max_Portfolio/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>streamlit</title>
-      <link>https://maxim371.github.io/Maxwell_Portfolio_2/tags/streamlit/</link>
+      <link>https://maxim371.github.io/Max_Portfolio/tags/streamlit/</link>
       <pubDate>Sun, 10 May 2020 11:00:59 -0400</pubDate>
       
-      <guid>https://maxim371.github.io/Maxwell_Portfolio_2/tags/streamlit/</guid>
+      <guid>https://maxim371.github.io/Max_Portfolio/tags/streamlit/</guid>
       <description></description>
     </item>
     
